@@ -1,0 +1,37 @@
+<SOLUTION>
+<HEADER FRQ="ITERATION">
+ <COLUMN ID="    1">Contact Pair ID</COLUMN>
+ <COLUMN ID="    2">Number of Contact Elements in Contact</COLUMN>
+ <COLUMN ID="    3">Number of Contact Elements in Contact (Sticking)</COLUMN>
+ <COLUMN ID="    4">Max. Chattering Level</COLUMN>
+ <COLUMN ID="    5">Max. Penetration/Min. Gap</COLUMN>
+ <COLUMN ID="    6">Max. Closed Gap</COLUMN>
+ <COLUMN ID="    7">Max. Normal Stiffness</COLUMN>
+ <COLUMN ID="    8">Min. Normal Stiffness</COLUMN>
+ <COLUMN ID="    9">Max. Resulting Pinball</COLUMN>
+ <COLUMN ID="   10">Max. Elastic Slip Distance</COLUMN>
+ <COLUMN ID="   11">Max. Tangential Stiffness</COLUMN>
+ <COLUMN ID="   12">Min. Tangential Stiffness</COLUMN>
+ <COLUMN ID="   13">Max. Sliding Distance</COLUMN>
+ <COLUMN ID="   14">Max. Contact Pressure</COLUMN>
+ <COLUMN ID="   15">Max. Friction Stress</COLUMN>
+ <COLUMN ID="   16">Average Contact Depth</COLUMN>
+ <COLUMN ID="   17">Max. Closed Penetration</COLUMN>
+ <COLUMN ID="   18">Number of Contact Points Have Too Much Penetration</COLUMN>
+ <COLUMN ID="   19">Contacting Area</COLUMN>
+ <COLUMN ID="   20">Max. Contact Damping Pressure</COLUMN>
+ <COLUMN ID="   21">Max. Contact Damping Tangential stress</COLUMN>
+ <COLUMN ID="   22">Max. Sliding Distance including near field</COLUMN>
+ <COLUMN ID="   23">Min. Sliding Distance including near field</COLUMN>
+ <COLUMN ID="   24">Max. fluid penetration pressure on contact surface</COLUMN>
+ <COLUMN ID="   25">Max. fluid penetration pressure on target surface</COLUMN>
+ <COLUMN ID="   26">Total volume loss due to wear on contact surface</COLUMN>
+ <UNITS>uMKS</UNITS>
+</HEADER>
+<COLDATA LOAD_STEP="        1" SUBSTEP="        1" ITERATION="        0" TIME="    0.000000    ">
+        6      1496      1496         0    0.1622864E-10    -466.4018         199.0184         199.0184         1130.549         0.000000         164.0909         164.0909         0.000000        0.3229797E-08     0.000000         4522.196         0.000000             0    0.2528982E+11     0.000000         0.000000         0.000000         0.000000         0.000000         0.000000         0.000000    
+        7        -2         0         0    -7724.000         0.000000         0.000000         0.000000         7724.000         0.000000         0.000000         0.000000         0.000000         0.000000         0.000000         7617.847         0.000000             0     0.000000         0.000000         0.000000         0.000000         0.000000         0.000000         0.000000         0.000000    
+        8        -2         0         0    -8571.000         0.000000         0.000000         0.000000         8571.000         0.000000         0.000000         0.000000         0.000000         0.000000         0.000000         8437.752         0.000000             0     0.000000         0.000000         0.000000         0.000000         0.000000         0.000000         0.000000         0.000000    
+        9      1184      1184         0    0.8020204E-11    -98.69641        0.3624746E-03    0.3624746E-03     295.1931         0.000000        0.8559007E-04    0.8559007E-04     0.000000       -0.3265263E-14     0.000000         1180.772         0.000000             0    0.1640656E+11     0.000000         0.000000         0.000000         0.000000         0.000000         0.000000         0.000000    
+</COLDATA>
+</SOLUTION>

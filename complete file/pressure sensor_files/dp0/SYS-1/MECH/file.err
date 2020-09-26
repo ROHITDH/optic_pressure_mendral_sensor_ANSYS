@@ -1,0 +1,22 @@
+/COM,ANSYS RELEASE 15.0.7  UP20140420       13:00:53    01/19/2020
+
+ *** WARNING ***                         CP =       1.078   TIME= 13:00:55
+ Using 1 iteration per substep may result in unconverged solutions for   
+ nonlinear analysis and the program may not indicate divergence in this  
+ case.  Check your results.                                              
+
+ *** WARNING ***                         CP =       1.109   TIME= 13:00:55
+ Element shape checking is currently inactive.  Issue SHPP,ON or         
+ SHPP,WARN to reactivate, if desired.                                    
+
+ *** WARNING ***                         CP =       1.141   TIME= 13:00:55
+ SOLID186 wedges are recommended only in regions of relatively low       
+ stress gradients.                                                       
+
+ *** WARNING ***                         CP =       1.266   TIME= 13:00:55
+ Material number 7 (used by element 4533 ) should normally have at least 
+ one MP or one TB type command associated with it.  Output of energy by  
+ material may not be available.                                          
+
+ *** WARNING ***                         CP =       3.312   TIME= 13:00:56
+ Coefficient ratio exceeds 1.0e8 - Check results.                        
